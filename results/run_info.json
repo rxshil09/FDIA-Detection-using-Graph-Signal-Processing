@@ -1,0 +1,13 @@
+{
+  "seed": 42,
+  "n_buses": 30,
+  "m_measurements": 60,
+  "noise_std": 0.05,
+  "dataset_sizes": {
+    "train_normal": 1400,
+    "val_normal": 400,
+    "test_normal": 800,
+    "test_random_attack": 500,
+    "test_stealth_attack": 500
+  }
+}

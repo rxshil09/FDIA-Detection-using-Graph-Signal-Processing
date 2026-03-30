@@ -1,0 +1,12 @@
+{
+  "thresholds": {
+    "Residual_BDD": 0.045527234476005325,
+    "ZScore_Nodewise": 2.9367819005789,
+    "GSP_HighFreq": 0.0003821420081117903
+  },
+  "mean_residual_by_kind": {
+    "normal": 0.034992642132409275,
+    "random_attack": 0.7081038267841538,
+    "stealth_attack": 0.034919031200527015
+  }
+}
